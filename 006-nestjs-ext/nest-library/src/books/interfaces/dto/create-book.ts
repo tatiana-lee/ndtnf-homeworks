@@ -1,4 +1,4 @@
-import { IBook } from './book.interface';
+import { IBook } from '../book.interface';
 
 export interface CreateBookDto {
   title: IBook['title'];
